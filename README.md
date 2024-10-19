@@ -5,4 +5,7 @@ Tecnologias:
 - API REST com Spring Boot e MongoDB;
 - Website com React;
 
-Desenho de arquitetura:
+Desenho da arquitetura:
+
+![arquitetura.jpg](imagens/arquitetura.jpg)
+
