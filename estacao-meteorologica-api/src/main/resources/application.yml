@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: estacao-meteorologica-api
+  data:
+    mongodb:
+      uri: "mongodb://localhost:27017/estacao-meteorologica"
+
+server:
+  port: 8180
+
+logging:
+  level:
+    br:
+      com:
+        estacaometeorologica: debug
